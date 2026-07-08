@@ -2,6 +2,8 @@
 
 A fun platformer game where you control a wizard and jump over monsters while traversing platforms.
 
+<img width="793" height="763" alt="wizard platformer" src="https://github.com/user-attachments/assets/897dc3b6-09fd-4e80-952b-2487180c6271" />
+
 ## Overview
 
 Navigate through an 800x800 pixel grid-based world, avoid 8 different monsters, and reach the victory condition by jumping across platforms with precise controls.
